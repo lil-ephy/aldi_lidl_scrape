@@ -1,5 +1,3 @@
-.multiverse_examples/
-.ipynb_checkpoints/
-.ONSPD_NOV_2021_UK/
+*/*
 *.csv
 .DS_Store
