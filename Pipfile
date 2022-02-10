@@ -10,6 +10,8 @@ requests = "*"
 beautifulsoup4 = "*"
 openpyxl = "*"
 notebook = "*"
+black = "*"
+flake8 = "*"
 
 [dev-packages]
 
